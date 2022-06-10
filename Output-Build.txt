@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: WindowsFormsApp20220605_Slide_Show, Configuration: Debug Any CPU ------
+1>C:\Users\Андрей\source\repos\WindowsFormsApp20220605_Slide_Show\WindowsFormsApp20220605_Slide_Show\Form1.cs(19,16,19,19): warning CS0169: The field 'Form1.one' is never used
+1>  WindowsFormsApp20220605_Slide_Show -> C:\Users\Андрей\source\repos\WindowsFormsApp20220605_Slide_Show\WindowsFormsApp20220605_Slide_Show\bin\Debug\WindowsFormsApp20220605_Slide_Show.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
